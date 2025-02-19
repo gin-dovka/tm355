@@ -9,7 +9,7 @@
 
 A collection of previous midterm exams compiled in one pack `.zip` file.
 
-[Download previous final exams (collection)]()
+[Download previous final exams (collection)](/resources/finals)
 
 The collection is comprised of the following midterm files:
 
@@ -20,5 +20,5 @@ Total Files: X
 
 | Year | Semester | File (`.pdf`) | Includes Key Answers (?) |
 |---|---|---|---|
-|20XY|1-Fall|[xyz]()|:heavy_check_mark:|
-|20XY|1-Fall|[xyz]()|:heavy_multiplication_x:|
+|20XY|1-Fall|[xyz](/resources/finals)|:heavy_check_mark:|
+|20XY|1-Fall|[xyz](/resources/finals)|:heavy_multiplication_x:|
