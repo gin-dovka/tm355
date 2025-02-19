@@ -2,7 +2,7 @@
 
 ## Recorded Lectures
 > [!TIP]
-> Do you want to watch directly? I got you, [Go to Chapters](/chapters) and watch directly from there <ins>at the end</ins> of each chapter :wink:
+> Do you want to watch directly? I got you, [Go to Chapters](/chapters/index) and watch directly from there <ins>at the end</ins> of each chapter :wink:
 
 ### Ch.1 Channels for Communications 
 
@@ -70,25 +70,25 @@
 
 ### Ch.2 An Introduction to the theory of Signals 
 
-[Session 3](https://www.dropbox.com/scl/fi/aibuk813wo4fnq4z27utr/TM355_Ch2_Session_3.mp4?rlkey=r1zap6wn3jsfnifyqzozfa0z3&st=5e4lspvp&dl=0)
+[Session 3](https://www.dropbox.com/scl/fi/aibuk813wo4fnq4z27utr/TM355_Ch2_Session_3.mp4?rlkey=r1zap6wn3jsfnifyqzozfa0z3&st=5e4lspvp&dl=1)
 
-[Activities](https://www.dropbox.com/scl/fi/9ngs690lgkx2rjeep5nue/9.tm355-session-3-activities-E09.mp4?rlkey=ih6j1i1cj6vzv3wk0y6swl6mp&st=3p9yibi7&dl=0)
+[Activities](https://www.dropbox.com/scl/fi/9ngs690lgkx2rjeep5nue/9.tm355-session-3-activities-E09.mp4?rlkey=ih6j1i1cj6vzv3wk0y6swl6mp&st=3p9yibi7&dl=1)
 
 ### Ch.3 Noise, Interference and Coexistence 
 
-[Session 4](https://www.dropbox.com/scl/fi/t7tr1o420k6eixg6tdd0l/10.tm355-session-4-E10.mp4?rlkey=tvq5slk3qwb2ug11cr2tdq44d&st=2j6n5zz9&dl=0)
+[Session 4](https://www.dropbox.com/scl/fi/t7tr1o420k6eixg6tdd0l/10.tm355-session-4-E10.mp4?rlkey=tvq5slk3qwb2ug11cr2tdq44d&st=2j6n5zz9&dl=1)
 
-[Activities](https://www.dropbox.com/scl/fi/mxj4qhonwyezkxhgw6dqu/11.tm355-session-4-activities-E11.mp4?rlkey=zmux0cia344wqwuq181actyqa&st=hbawlith&dl=0)
+[Activities](https://www.dropbox.com/scl/fi/mxj4qhonwyezkxhgw6dqu/11.tm355-session-4-activities-E11.mp4?rlkey=zmux0cia344wqwuq181actyqa&st=hbawlith&dl=1)
 
 ### Ch.4 Channel Coding 
 
-[Session 5](https://www.dropbox.com/scl/fi/hbna6ptilb4rrtaui5ewa/TM355_Ch4_Session_5.mp4?rlkey=m88qb4336brioxinzls4ditug&st=6rv9mxy0&dl=0)
+[Session 5](https://www.dropbox.com/scl/fi/hbna6ptilb4rrtaui5ewa/TM355_Ch4_Session_5.mp4?rlkey=m88qb4336brioxinzls4ditug&st=6rv9mxy0&dl=1)
 
-[Activities](https://www.dropbox.com/scl/fi/v3z78nc4uoqc3zgjf3mgt/14.tm355-session-5-activities-E14.mp4?rlkey=6bnzowqjnxatmj979pufsbu94&st=zpb835zw&dl=0)
+[Activities](https://www.dropbox.com/scl/fi/v3z78nc4uoqc3zgjf3mgt/14.tm355-session-5-activities-E14.mp4?rlkey=6bnzowqjnxatmj979pufsbu94&st=zpb835zw&dl=1)
 
 ### Ch.5 Information Theory and Lossless Compression 
 
-[Session 6](https://drive.google.com/file/d/1jTk4kk9W6JZJ8mtg2jmTBu-DXXL2FTf5/view?usp=drive_link)
+[Session 6](https://drive.google.com/file/d/1jTk4kk9W6JZJ8mtg2jmTBu-DXXL2FTf5/view?usp=sharing)
 
 [Session 7](https://drive.google.com/file/d/1dfX9Jr0yrcvUqNbh7egSXIl7hwGgLqhB/view?usp=drive_link)
 
@@ -163,7 +163,3 @@
 [Previous Finall Summer 2019](https://drive.google.com/file/d/1wRL2HljxISotCs-iqFRyB6q9-65r13bV/view?usp=drive_link)
 
 [Previous Finall Summer 2020](https://drive.google.com/file/d/1ja0nAkStYwok6sSWCuDpNXoBN6f6AcL9/view?usp=drive_link)
-
-
-
-

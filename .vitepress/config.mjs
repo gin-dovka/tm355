@@ -5,6 +5,7 @@ export default defineConfig({
   title: "TM355",
   description: "TM355 Course compiled study and revision resources.",
   cleanUrls: true,
+  ignoreDeadLinks: 'localhostLinks',
   markdown: {
     math: true
   },
