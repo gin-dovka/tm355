@@ -148,7 +148,7 @@
 ### Final Exam Review
 
 > [!TIP]
-> Too lazy to download? I got you, [Go to Final Review]() and watch directly from there :wink:
+> Too lazy to download? I got you, [Go to Final Review](/resources/finals-review) and watch directly from there :wink:
 
 [Pevious Final Fall 2018/19](https://drive.google.com/file/d/1mMPdgG0s9fW_ulUnppWeUzfiTUyEfulM/view?usp=drive_link)
 
