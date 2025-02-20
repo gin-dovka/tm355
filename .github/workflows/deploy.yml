@@ -47,7 +47,6 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with VitePress
         run: |
-          cd docs
           npm ci
           npm run docs:build
       - name: Upload artifact
